@@ -1,0 +1,3 @@
+dnf install -nogpgcheck  |
+          or             ----rpm packsges will be installed without gpg check. Make sure you trust the repo
+yum install -nogpgcheck  |
