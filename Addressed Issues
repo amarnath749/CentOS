@@ -1,0 +1,2 @@
+dnf install -nogpgcheck <package-name>   |Helps to simply bypass gpg checcking for rpm packages 
+                                         |Use only if you trust the repo
