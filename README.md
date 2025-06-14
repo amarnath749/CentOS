@@ -1,2 +1,3 @@
 # CentOS
-rpm-gpg bypassing
+
+Here EPEL realted issues on CentOS will be addressed
